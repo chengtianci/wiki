@@ -1,5 +1,13 @@
 site_name: Chengtc Docs
+# Configuration
 theme:
   name: 'material'
-
-  
+  language: 'zh'
+  palette:
+    primary: 'teal'
+    accent: 'blue'
+  font:
+    text: 'Bree'
+    code: 'Bree Serif'
+  feature:
+    tabs: false
