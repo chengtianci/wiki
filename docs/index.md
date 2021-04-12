@@ -10,20 +10,21 @@
 ---
 ### 愿望清单
  - 亦间酒店 【湖南省长沙市雨花区车站南路161号】
- -  <img src="./images/2.png" alt="亦间酒店" style="zoom:50%;" />
+    -  <img src="./images/2.png" alt="亦间酒店" style="zoom:50%;" />
  - 橘子洲 (湖南省长沙市岳麓区橘子洲头2号)
  - 岳麓书院 (湖南省长沙市岳麓区麓山南路(湖南大学内)
  - 烟花 （在橘子洲）
- - <img src="./images/1.png" alt="岳麓书院" style="zoom:50%;" />
+    - <img src="./images/1.png" alt="岳麓书院" style="zoom:50%;" />
  - 摩天轮
- - 口味虾 （一号晚上解决）
- - 湘菜 （一号中午解决）
+ - 口味虾 
+ - 湘菜 
     - 谢光头辣椒炒肉，娟娟餐馆，超级文和友[果呀呀,茶颜悦色]，长郡中学门口小吃，老师傅餐馆（内线推荐餐馆）
  - 湖南省博物馆-->解放西路
- - <img src="./images/3.png" alt="湖南省博物馆" style="zoom:50%;" />
+    - <img src="./images/3.png" alt="湖南省博物馆" style="zoom:50%;" />
 
- [长沙哪里有好吃的早点？](https://www.zhihu.com/question/54173439)
- [第一次去长沙全攻略](https://m.mafengwo.cn/mmobile/guidepolymeric/detail?id=1110000008477146461)
+ - [长沙哪里有好吃的早点？](https://www.zhihu.com/question/54173439)
+
+ - [第一次去长沙全攻略](https://m.mafengwo.cn/mmobile/guidepolymeric/detail?id=1110000008477146461)
  ---
 ### 出行前准备
 <!--  -->
